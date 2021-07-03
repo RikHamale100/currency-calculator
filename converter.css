@@ -1,0 +1,21 @@
+body {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+}
+
+.Block {
+background-color: cornsilk;
+height: 500px;
+width: 600px;
+text-align: center;
+color: rgb(30, 87, 90);
+}
+
+form div {
+    margin: 20px;
+}
+form div input {
+    width: 70%; 
+    height: 20px;
+}
